@@ -14,7 +14,7 @@ The project is divided into two parts:
 
 ## Team members
 **Bagauova Danara - 23B031233**
-* **Ibadullaev Assylzhan - 23B030359**
+**Ibadullaev Assylzhan - 23B030359**
 
 ## Key Features
 
