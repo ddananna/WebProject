@@ -12,9 +12,9 @@ The project is divided into two parts:
 * **Backend:** Implemented with Django and Django REST Framework, providing a REST API.
 * **Frontend:** Implemented with Angular (using Standalone Components API), interacting with the Backend via the API.
 
-##Team members
-Bagauova Danara - 23B031233
-Ibadullaev Assylzhan - 23B030359 
+## Team members
+**Bagauova Danara - 23B031233**
+**Ibadullaev Assylzhan - 23B030359**
 
 ## Key Features
 
